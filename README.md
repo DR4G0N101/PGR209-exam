@@ -3,7 +3,7 @@
 **Kristiania University College (Høyskolen Kristiania)**  
 Oslo, Norway  
 
-**Course:** Back-End Programming  
 **Course Code:** PGR209
+**Course:** Backend Programming  
 
-GRADE:  **NOT REVIEWED YET**
+GRADE:  **N/A**
